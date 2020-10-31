@@ -1,3 +1,11 @@
+Showing my Love for the Breaking Bad.
+
+React App made using Breaking Bad API.
+
+This was just a fun project. Hope you like it. You can use it any way you like.
+
+The Breaking Bad API Link - https://www.breakingbadapi.com/api/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
